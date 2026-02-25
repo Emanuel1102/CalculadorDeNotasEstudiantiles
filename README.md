@@ -7,5 +7,5 @@ para ejecutar el proyecto, debes tener instalado python en tu pc
 
 tambien debes tener un editor de texto
 
-# autor
+# author
 Este proyecto fue creado por Emanuel Manotas
