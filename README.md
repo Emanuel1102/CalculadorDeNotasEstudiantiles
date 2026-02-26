@@ -1,5 +1,5 @@
 # CalculadorDeNotasEstudiantiles
-Proyecto de consola que permite calcular el desempeño de los estudiantes
+Proyecto de consola que permite calcular el promedio de los estudiantes
 
 
 ## prerequisitos:
